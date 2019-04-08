@@ -16,13 +16,13 @@ To test the API, was used the software Postman and for the development, XAMPP.
 Here, it's some JSONs used on tests:
 
 ### Delete
->{	"id":7 }<br>
+>{"id":7}<br>
 
 ### Create
->{"name":"MATHEUS"}<br>
+>{"name":"Max"}<br>
 
 ### Update 
->{	"id": 2, "name": "Andrew" }<br>
+>{"id": 2, "name": "Andrew"}<br>
 
 ### Read
 
